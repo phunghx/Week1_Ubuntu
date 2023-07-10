@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "phunghx/Week1_Ubuntu",
+  "pipelineDirectory": "Week1_Ubuntu",
+  "workspaceDirectory": "Week1_Ubuntu/Week1_Ubuntu",
+  "repositories": {
+    "phunghx/Week1_Ubuntu": {
+      "repositoryPath": "Week1_Ubuntu/Week1_Ubuntu",
+      "lastRunOn": "07/10/2023 07:58:45 +07:00"
+    }
+  },
+  "lastRunOn": "07/10/2023 07:59:22 +07:00"
+}
